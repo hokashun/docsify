@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A magical documentation site generator.
+  Documentation for RoCS.
 </p>
 
 <p align="center">
@@ -69,14 +69,14 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 ## Sponsors
 
-Thank you for supporting this project！:heart: [[Become a sponsor](https://opencollective.com/docsify)]
+Thank you for supporting this project！❤️ [[Become a sponsor](https://opencollective.com/docsify)]
 
 <img src="https://opencollective.com/docsify/sponsors.svg?width=890" />
 
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/docsifyjs/docsify/graphs/contributors"><img src="https://opencollective.com/docsify/contributors.svg?width=890" /></a>
+`<a href="https://github.com/docsifyjs/docsify/graphs/contributors"><img src="https://opencollective.com/docsify/contributors.svg?width=890" />``</a>`
 
 ## License
 
@@ -84,4 +84,4 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 
 ## Special Thanks
 
-A preview of Docsify's PR and develop branch is <a href="https://vercel.com/?utm_source=docsifyjs&utm_campaign=oss" target="_blank">Powered by <img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" alt="Vercel" width="133px"></a>
+A preview of Docsify's PR and develop branch is `<a href="https://vercel.com/?utm_source=docsifyjs&utm_campaign=oss" target="_blank">`Powered by `<img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" alt="Vercel" width="133px"></a>`

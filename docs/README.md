@@ -39,12 +39,11 @@ The RoCS is structured into three distinct layers, each serving a unique and piv
 * **Server API (Server Interface):**
 
   Operating within the confines of the robot, the Server API assumes the role of a lightweight data forwarding layer. It leverages HTTP and WebSocket protocols to facilitate the seamless transmission of external commands to the lower computer and the transmission of essential robot data to external entities. Despite its location within the robot, the Server API is considered an integral part of the upper computer. However, due to efficiency and security concerns, it is not available as open-source software.
-
-The Server API essentially serves as the crucial conduit between the core functions of the lower computer and the external world, ensuring the efficient and secure exchange of data.
+  The Server API essentially serves as the crucial conduit between the core functions of the lower computer and the external world, ensuring the efficient and secure exchange of data.
 
 ## RoCS Architecture
 
-The RoCS (Robot Control System) architecture is designed to offer precise control and management of robotic systems through a network-based communication system, facilitating seamless interaction with the robot and enabling operators to issue commands and receive real-time feedback. Node.js and Python serve as the communication interfaces, connecting the terminal (joystick) with the three layers of the system.
+The RoCS architecture is designed to offer precise control and management of robotic systems through a network-based communication system, facilitating seamless interaction with the robot and enabling operators to issue commands and receive real-time feedback. Node.js and Python serve as the communication interfaces, connecting the terminal (joystick) with the three layers of the system.
 
 ![1698819486264](image/README/1698819486264.png)
 
@@ -62,7 +61,6 @@ The RoCS (Robot Control System) architecture is designed to offer precise contro
   - This layer enables higher-level tasks, including human-robot interaction, decision-making, and intelligent behaviors.
 
 The RoCS architecture offers a comprehensive framework for controlling and managing robots, spanning from low-level motion control to high-level intelligent behaviors and human-robot interaction，making it a versatile tool in various robotic applications..
-
 
 ## Conclusion
 

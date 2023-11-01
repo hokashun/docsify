@@ -1,28 +1,20 @@
 - Getting started
 
   - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+- RoCS Server
 
-- Customization
+  - [RoCS Server](rocsserver.md)
+- Remote Control App
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+  - [Remote Control App](rocsappoperation.md)
+- SDK Python Control App
 
-- Guide
+  - [Initial Connection of Python SDK](rocsclientsdk-python.md)
+- GR-1 User Guide
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Embed Files](embed-files.md)
+  - [GR-1 User Guide](gr-1userguide.md)
+- Release Notes
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+  - [Release V0.1](v0.1.md)
+  - [Release V0.2](v0.2.md)
+  - [Release V1.1](v1.1.md)

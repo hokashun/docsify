@@ -1,3 +1,3 @@
-- Select a language
+- Languages
   - [English](/)
   - [简体中文](/zh-cn/)

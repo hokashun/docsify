@@ -5,27 +5,45 @@
 </p>
 
 <p align="center">
-  Documentation for RoCS.
+  Where Precision Fuses with Robotic Mastery.
 </p>
 
-<p align="center">
-  <a href="#backers"><img alt="Backers on Open Collective" src="https://opencollective.com/docsify/backers/badge.svg?style=flat-square"></a>
-  <a href="#sponsors">
-    <img alt="Sponsors on Open Collective" src="https://opencollective.com/docsify/sponsors/badge.svg?style=flat-square"></a>
-  <a href="https://github.com/docsifyjs/docsify/actions/workflows/test.yml"><img src="https://github.com/docsifyjs/docsify/actions/workflows/test.yml/badge.svg" alt="Build & Test"></a>
-  <a href="https://www.npmjs.com/package/docsify"><img alt="npm" src="https://img.shields.io/npm/v/docsify.svg?style=flat-square"></a>
-  <a href="https://github.com/QingWei-Li/donate"><img alt="donate" src="https://img.shields.io/badge/%24-donate-ff69b4.svg?style=flat-square"></a>
-  <a href="https://discord.gg/3NwKFyR"><img alt="Join Discord community and chat about Docsify" src="https://img.shields.io/discord/713647066802421792.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&cacheSeconds=60"></a>
-  <a href="https://gitpod.io/#https://github.com/docsifyjs/docsify"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
-</p>
 
-<p align="center">Gold Sponsor via <a href="https://opencollective.com/docsify">Open Collective</a></p>
+# A Comprehensive Overview of the Robot Control System (RoCS)
 
-<p align="center">
-  <a href="https://opencollective.com/docsify/order/3254">
-    <img src="https://opencollective.com/docsify/tiers/gold-sponsor.svg?avatarHeight=36">
-  </a>
-</p>
+## Introduction
+
+The Robot Control System, known as RoCS, is an advanced software framework designed for precise management and control of robotic systems. It consists of two primary components: the upper computer and the lower computer.
+
+## Lower Computer
+
+The lower computer, functioning as the analog of the cerebellum in human physiology, specializes in tasks related to motion control. It is responsible for motor control, motion algorithms, hardware driver management, and other critical functions essential for the robot's movement and stability.
+
+## Upper Computer
+
+Conversely, the upper computer is primarily dedicated to seamless data exchange and executing specific logic applications. Its role encompasses tasks such as receiving and playing audio, real-time transmission of video streams, dispatching precise instructions to the robot's hardware components, and continuous monitoring of the robot's operational status.
+
+## Layers of the Robot Control System
+
+The Robot Control System is structured into three distinct layers, each serving a unique and pivotal role:
+
+1. **Control App (User Graphic Application):**
+
+   The Control App is an intuitive graphical application tailored for use on terminals external to the robot's physical body, such as computers and mobile devices. Its primary function is to serve as a comprehensive reference for developers, rather than as a consumer-facing application.
+2. **Client SDK (Client Interface):**
+
+   The Client SDK represents the client-side interface, facilitating interaction with the Robot Control System. It provides developers with a streamlined mechanism for accessing the Server API, thereby enabling the development of customized applications. This layer is open-source, encouraging the development community to create tailored solutions.
+3. **Server API (Server Interface):**
+
+   Operating within the confines of the robot, the Server API assumes the role of a lightweight data forwarding layer. It leverages HTTP and WebSocket protocols to facilitate the seamless transmission of external commands to the lower computer and the transmission of essential robot data to external entities. Despite its location within the robot, the Server API is considered an integral part of the upper computer. However, due to efficiency and security concerns, it is not available as open-source software.
+
+The Server API essentially serves as the crucial conduit between the core functions of the lower computer and the external world, ensuring the efficient and secure exchange of data.
+
+## Conclusion
+
+In summation, the collective elements of the upper computer, encompassing the Control App, Client SDK, and Server API, collectively comprise the Robot Control System, or RoCS. This comprehensive framework equips developers and operators with the tools necessary for efficient and precise monitoring and remote control of robotic systems, thereby ensuring their seamless and optimal operation.
+
+
 
 Docsify turns one or more Markdown files into a Website, with no build process required.
 

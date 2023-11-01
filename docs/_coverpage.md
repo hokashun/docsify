@@ -11,5 +11,5 @@
 - Efficient Data Transmission
 - Integration
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://hokashun.github.io/docsify)
 [Getting Started](#docsify)

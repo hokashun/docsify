@@ -26,8 +26,6 @@
   - [Release V1.1](v1.1.md)
 
 
-# Technical Documentation for Extended Development of the GR-1 Humanoid Robot
-
 ## 1. Introduction
 
 - Overview of the GR-1 humanoid robot

@@ -16,6 +16,9 @@
 - GR-1 User Guide
 
   - [GR-1 User Guide](gr-1userguide.md)
+- Server API
+
+  - [Server API](rocsserverapi.md)
 - Release Notes
 
   - [Release V0.1](v0.1.md)

@@ -1,11 +1,11 @@
 ![logo](_media/icon.svg)
 
-# RoCS `<small>`1.0 `</small>`
+# RoCS <small>4.13.0</small>
 
 > Where Precision Fuses with Robotic Mastery.
 
 - High Precision Control
-- No statically built html filesLayered Architecture
+- Layered Architecture
 - User-Friendly Graphical Interface
 - Open Source
 - Efficient Data Transmission

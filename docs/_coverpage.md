@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# RoCS <small>4.13.0</small>
+# RoCS <small>1.1</small>
 
 > Where Precision Fuses with Robotic Mastery.
 

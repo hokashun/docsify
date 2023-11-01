@@ -7,7 +7,10 @@
 - Remote Control App
 
   - [Remote Control App](rocsappoperation.md)
-- SDK Python Control App
+- Python SDK
+
+  - [Initial Connection of Python SDK](rocsclientsdk-python.md)
+- JavaScript/TypeScript SDK
 
   - [Initial Connection of Python SDK](rocsclientsdk-python.md)
 - GR-1 User Guide

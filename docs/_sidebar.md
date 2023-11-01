@@ -25,7 +25,6 @@
   - [Release V0.2](v0.2.md)
   - [Release V1.1](v1.1.md)
 
-
 ## 1. Introduction
 
 - Overview of the GR-1 humanoid robot
@@ -36,12 +35,6 @@
 - Prerequisites for third-party developers
 - Introduction to GR-1's architecture
 - Target audience clarification
-
-## 3. Communication and Control
-
-- Communication system for robot control
-- Interaction with Node.js and Python
-- Code examples and use cases
 
 ## 4. Development Environments
 
@@ -75,17 +68,7 @@
 - Solutions to common issues
 - Support channels for development challenges
 
-## 10. Advanced Features and Experimentation
-
-- Introduction to advanced features and experiments
-- Examples and ideas for pushing development boundaries
-
-## 11. Conclusion
-
-- Summary and available resources for third-party developers
-- Encouragement for exploration and experimentation
-
-## 12. Appendix (if needed)
+## 11. Appendix (if needed)
 
 - Additional resources and reference materials
 

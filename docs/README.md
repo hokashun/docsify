@@ -38,8 +38,7 @@ The RoCS is structured into three distinct layers, each serving a unique and piv
   The Client SDK represents the client-side interface, facilitating interaction with the Robot Control System. It provides developers with a streamlined mechanism for accessing the Server API, thereby enabling the development of customized applications. This layer is open-source, encouraging the development community to create tailored solutions.
 * **Server API (Server Interface):**
 
-  Operating within the confines of the robot, the Server API assumes the role of a lightweight data forwarding layer. It leverages HTTP and WebSocket protocols to facilitate the seamless transmission of external commands to the lower computer and the transmission of essential robot data to external entities. Despite its location within the robot, the Server API is considered an integral part of the upper computer. However, due to efficiency and security concerns, it is not available as open-source software.
-  The Server API essentially serves as the crucial conduit between the core functions of the lower computer and the external world, ensuring the efficient and secure exchange of data.
+  Operating within the confines of the robot, the Server API assumes the role of a lightweight data forwarding layer. It leverages HTTP and WebSocket protocols to facilitate the seamless transmission of external commands to the lower computer and the transmission of essential robot data to external entities. Despite its location within the robot, the Server API is considered an integral part of the upper computer. However, due to efficiency and security concerns, it is not available as open-source software.  The Server API essentially serves as the crucial conduit between the core functions of the lower computer and the external world, ensuring the efficient and secure exchange of data.
 
 ## RoCS Architecture
 
@@ -49,16 +48,16 @@ The RoCS architecture is designed to offer precise control and management of rob
 
 * **Bottom Layer - Motion Library**
 
-  - The Motion Library, at the bottom layer, handles core functions related to motion control and operational control.
-  - It encompasses motor control, motion algorithms, and operational control, ensuring precise and coordinated robot movements.
+  * The Motion Library, at the bottom layer, handles core functions related to motion control and operational control.
+  * It encompasses motor control, motion algorithms, and operational control, ensuring precise and coordinated robot movements.
 * **Middle Layer - Body**
 
-  - The middle layer, known as the Body, represents the physical embodiment of the robot and is responsible for various aspects of its operation.
-  - Components for head interaction, joint control, upper limb dexterity, hand environmental awareness, and proprioception contribute to the robot's physical capabilities and sensory perception.
+  * The middle layer, known as the Body, represents the physical embodiment of the robot and is responsible for various aspects of its operation.
+  * Components for head interaction, joint control, upper limb dexterity, hand environmental awareness, and proprioception contribute to the robot's physical capabilities and sensory perception.
 * **Upper Layer**
 
-  - The uppermost layer is versatile and dynamic, incorporating advanced functionalities such as graphical programming, cluster control, avatar control, and embodied intelligence.
-  - This layer enables higher-level tasks, including human-robot interaction, decision-making, and intelligent behaviors.
+  * The uppermost layer is versatile and dynamic, incorporating advanced functionalities such as graphical programming, cluster control, avatar control, and embodied intelligence.
+  * This layer enables higher-level tasks, including human-robot interaction, decision-making, and intelligent behaviors.
 
 The RoCS architecture offers a comprehensive framework for controlling and managing robots, spanning from low-level motion control to high-level intelligent behaviors and human-robot interaction，making it a versatile tool in various robotic applications..
 

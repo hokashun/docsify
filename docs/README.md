@@ -1,6 +1,6 @@
 ## RoCS
 
-> A magical documentation site generator.
+> Where precision fuses with robotic mastery.
 
 ## What it is
 
@@ -10,12 +10,13 @@ See the [Quick start](quickstart.md) guide for more details.
 
 ## Features
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
+* **High Precision Control:** RoCS is designed for achieving highly precise control of robotic systems, making robots excel in various tasks, be it in industrial automation, medical surgery, or other domains.
+* **Layered Architecture:** RoCS employs a layered architecture, modularizing functionalities for ease of maintenance and scalability. This simplifies development and integration of various components, enhancing system maintainability.
+* **User-Friendly Graphical Interface:** RoCS provides a user-friendly graphical interface (Control App) that enables developers to interact with and monitor robotic systems seamlessly, expediting the development process.
+* **Open Source:** Part of RoCS (Client SDK) is open source, offering flexibility and customization opportunities for developers. This fosters community engagement and drives innovation.
+* **Efficient Data Transmission:** RoCS's Server API facilitates data transmission through HTTP and WebSocket protocols, ensuring efficient and secure data transfer crucial for real-time control and monitoring.
+* **Comprehensive Functionality:** RoCS offers a wide range of functionalities, including sound and video processing, motion algorithms, hardware control, and more, making it suitable for diverse robotic application domains.
+* **Integration:** RoCS effectively integrates various components within its layered structure, making it a comprehensive robotic control system capable of meeting diverse application needs.
 
 ## Lower Computer
 
@@ -29,15 +30,15 @@ Conversely, the upper computer is primarily dedicated to seamless data exchange 
 
 The Robot Control System is structured into three distinct layers, each serving a unique and pivotal role:
 
-1. **Control App (User Graphic Application):**
+* **Control App (User Graphic Application):**
 
-   The Control App is an intuitive graphical application tailored for use on terminals external to the robot's physical body, such as computers and mobile devices. Its primary function is to serve as a comprehensive reference for developers, rather than as a consumer-facing application.
-2. **Client SDK (Client Interface):**
+  The Control App is an intuitive graphical application tailored for use on terminals external to the robot's physical body, such as computers and mobile devices. Its primary function is to serve as a comprehensive reference for developers, rather than as a consumer-facing application.
+* **Client SDK (Client Interface):**
 
-   The Client SDK represents the client-side interface, facilitating interaction with the Robot Control System. It provides developers with a streamlined mechanism for accessing the Server API, thereby enabling the development of customized applications. This layer is open-source, encouraging the development community to create tailored solutions.
-3. **Server API (Server Interface):**
+  The Client SDK represents the client-side interface, facilitating interaction with the Robot Control System. It provides developers with a streamlined mechanism for accessing the Server API, thereby enabling the development of customized applications. This layer is open-source, encouraging the development community to create tailored solutions.
+* **Server API (Server Interface):**
 
-   Operating within the confines of the robot, the Server API assumes the role of a lightweight data forwarding layer. It leverages HTTP and WebSocket protocols to facilitate the seamless transmission of external commands to the lower computer and the transmission of essential robot data to external entities. Despite its location within the robot, the Server API is considered an integral part of the upper computer. However, due to efficiency and security concerns, it is not available as open-source software.
+  Operating within the confines of the robot, the Server API assumes the role of a lightweight data forwarding layer. It leverages HTTP and WebSocket protocols to facilitate the seamless transmission of external commands to the lower computer and the transmission of essential robot data to external entities. Despite its location within the robot, the Server API is considered an integral part of the upper computer. However, due to efficiency and security concerns, it is not available as open-source software.
 
 The Server API essentially serves as the crucial conduit between the core functions of the lower computer and the external world, ensuring the efficient and secure exchange of data.
 

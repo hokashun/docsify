@@ -4,7 +4,7 @@
 
 ## What it is
 
-The Robot Control System, known as RoCS, is an advanced software framework designed for precise management and control of robotic systems. It consists of two primary components: the upper computer and the lower computer. [deploy it on GitHub Pages](deploy.md).
+The Robot Control System, known as RoCS, is an advanced software framework designed for precise management and control of robotic systems. It consists of two primary components: the upper computer and the lower computer.
 
 See the [Quick start](quickstart.md) guide for more details.
 
@@ -26,9 +26,9 @@ The lower computer, functioning as the analog of the cerebellum in human physiol
 
 Conversely, the upper computer is primarily dedicated to seamless data exchange and executing specific logic applications. Its role encompasses tasks such as receiving and playing audio, real-time transmission of video streams, dispatching precise instructions to the robot's hardware components, and continuous monitoring of the robot's operational status.
 
-## Layers of the Robot Control System
+## Layers of the RoCS
 
-The Robot Control System is structured into three distinct layers, each serving a unique and pivotal role:
+The RoCS is structured into three distinct layers, each serving a unique and pivotal role:
 
 * **Control App (User Graphic Application):**
 

@@ -57,7 +57,7 @@
 
   <body>
     <div id="app">Loading ...</div>
-    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
+    
     <script>
       // Set html "lang" attribute based on URL
       const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
@@ -175,7 +175,6 @@
           },
         },
         plugins: [
-          DocsifyCarbon.create('CEBI6KQE', 'docsifyjsorg'),
           function (hook, vm) {
             hook.beforeEach(html => {
               if (/githubusercontent\.com/.test(vm.route.file)) {

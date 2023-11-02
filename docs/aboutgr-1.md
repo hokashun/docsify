@@ -13,16 +13,19 @@ This robotic marvel exhibits remarkable human-like agility and motion kinematics
 
 These capabilities position the Fourier GR-1 as a promising platform for the future of "Embodied AI." This next-generation concept aims to merge AI technology with physical robots, creating entities that are not only controllable and perceptive but also interactive and mobile.
 
-The Fourier GR-1's scalability lends itself to the validation of various AI models and algorithms, opening up exciting possibilities for applications in industries, rehabilitation, homes, and research.
+The Fourier GR-1's scalability lends itself to the validation of various AI models and algorithms, opening up exciting possibilities for applications in industries, rehabilitation, household, and research.
 
 # GR-1 Specifications
 
-| Mechanical    |                                      |
+## Mechanical
+
+| Item          | Value                                |
 | ------------- | ------------------------------------ |
 | Standing size | 1650 x 515 x 320 mm                  |
 | Arm span      | 1680 mm                              |
 | Net weight    | ≈ 55 kg                              |
 | Materials     | Aluminum alloy, engineering plastics |
+
 
 | Electrical           |         |
 | -------------------- | ------- |

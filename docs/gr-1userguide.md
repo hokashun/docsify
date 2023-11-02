@@ -156,6 +156,7 @@ Do the following steps before powering on the robot:
 ![1698736555432](image/README/1698736555432.png)
 
 1. Click **Connect** .
+
 !> A success prompt will be given if when the connection succeeds.
 
 ### Landing Robot
@@ -183,7 +184,8 @@ Following two approaches are used to pause the motion of the robot:
 
 * Press the **Stand** button on the remote controller.
 * Press down the E-stop in case of danger or any emergency situation.
-  This would cut off the power supply of the robot and risk of data loss.
+  
+ !>This will cut off the power supply of the robot and risk of data loss.
 
 ### Powering off Robot
 

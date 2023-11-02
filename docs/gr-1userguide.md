@@ -102,23 +102,20 @@ Do the following steps before powering on the robot:
    Confirm that the robot components moves smoothly.  
 
    ![1698657344119](image/README/1698657344119.png)
-2. Inspect environment.
-
-   Confirm that a 4 m clearance in the vicinity of the robot and the ground is level and dry.
+2. Inspect environment.  
+   Confirm that a 4 m clearance in the vicinity of the robot and the ground is level and dry.  
 
    ![1698656074242](image/README/1698656074242.png)
 3. Connect robot to monitor.  
-
-   Power on the router.
-
-   Connect monitor to Type-C interface through the extension dock.
+   Power on the router.  
+   Connect monitor to Type-C interface through the extension dock.  
 
    ![1698657743472](image/README/1698657743472.png)
-4. Prepare arms ready for calibration.
-   Align shoulder grooves.
-   Keep arms straight downards and palms inwards-facing.
-   Ensure a 10 cm interval between palms and hips.
-   Keep the robot stand up straight.
+4. Prepare arms ready for calibration.  
+   Align shoulder grooves.  
+   Keep arms straight downards and palms inwards-facing.  
+   Ensure a 10 cm interval between palms and hips.  
+   Keep the robot stand up straight.  
 
    ![1698658681237](image/README/1698658681237.png)
 
@@ -152,8 +149,8 @@ Do the following steps before powering on the robot:
 
 ![1698736555432](image/README/1698736555432.png)
 
-1. Click **Connect** .
-   A successful prompt will be given if when the connection succeeds.
+1. Click **Connect** .  
+   A successful prompt will be given if when the connection succeeds.  
 
 ### Landing Robot
 
@@ -168,8 +165,8 @@ Do the following steps before powering on the robot:
 ### Controlling Robot
 
 1. Power on the remote controller and connect to the robot's Wi-Fi.
-2. Operate the remote controller to control the motion of the robot.
-   Use left handler to move the robot.   Use right handler to control the vision field.
+2. Operate the remote controller to control the motion of the robot.  
+   Use left handler to move the robot.   Use right handler to control the vision field.  
 
    ![1698744913325](image/README/1698744913325.png)
 
@@ -178,8 +175,8 @@ Do the following steps before powering on the robot:
 Following two approaches are used to pause the motion of the robot:
 
 * Press the **Stand** button on the remote controller.
-* Press down the E-stop in case of danger or any emergency situation.
-  This would cut off the power supply of the robot and risk of data loss.
+* Press down the E-stop in case of danger or any emergency situation.  
+  This would cut off the power supply of the robot and risk of data loss.  
 
 ### Powering off Robot
 

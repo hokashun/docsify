@@ -105,11 +105,11 @@ Do the following steps before powering on the robot:
 3. Connect robot to monitor.Power on the router.Connect monitor to Type-C interface through the extension dock.
 
    ![1698657743472](image/README/1698657743472.png)
-4. Prepare arms for calibration.
-   Align shoulder grooves.
-   Keep the arms hanging straight down with the palms facing inward.
-   Ensure a 10 cm interval between palms and hips.
-   Ensure that the robot stands upright.
+4. Prepare arms for calibration.  
+   Align shoulder grooves.  
+   Keep the arms hanging straight down with the palms facing inward.  
+   Ensure a 10 cm interval between palms and hips.  
+   Ensure that the robot stands upright.  
 
    ![1698658681237](image/README/1698658681237.png)
 
@@ -120,8 +120,8 @@ Do the following steps before powering on the robot:
 3. Release e-stop switch.
 
    ![1698659185945](image/README/1698659185945.png)
-4. Initialize robot arms and legs through desktop terminal.
-   Enter the following command to calibrate arms.
+4. Initialize robot arms and legs through desktop terminal.  
+   Enter the following command to calibrate arms.  
 
    ```
    $sh arm .sh

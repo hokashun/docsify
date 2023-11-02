@@ -103,7 +103,7 @@ Do the following steps before powering on the robot:
 
    ![1698657344119](image/README/1698657344119.png)
 2. Inspect environment.  
-   Confirm that a 4 m clearance in the vicinity of the robot and the ground is level and dry.  
+   Confirm that there is a 4 m clearance in the vicinity of the robot and the ground is level and dry.  
 
    ![1698656074242](image/README/1698656074242.png)
 3. Connect robot to monitor.  
@@ -111,11 +111,11 @@ Do the following steps before powering on the robot:
    Connect monitor to Type-C interface through the extension dock.  
 
    ![1698657743472](image/README/1698657743472.png)
-4. Prepare arms ready for calibration.  
+4. Prepare arms for calibration.  
    Align shoulder grooves.  
-   Keep arms straight downards and palms inwards-facing.  
+   Keep the arms hanging straight down with the palms facing inward.  
    Ensure a 10 cm interval between palms and hips.  
-   Keep the robot stand up straight.  
+   Ensure that the robot stands upright.  
 
    ![1698658681237](image/README/1698658681237.png)
 
@@ -126,19 +126,20 @@ Do the following steps before powering on the robot:
 3. Release e-stop switch.
 
    ![1698659185945](image/README/1698659185945.png)
-4. Initialize robot arms and legs through desktop terminal.Enter the following command to calibrate arms.
+4. Initialize robot arms and legs through desktop terminal.  
+   Enter the following command to calibrate arms.  
 
    ```
    $sh arm .sh
    ```
 
-   Enter the following command to calibrate legs.
+   Enter the following command to calibrate legs.  
 
    ```
    $sh leg.sh
    ```
 
-5. The robot is started successfullly if the indicator lights of actuators and robot host flash regularly.
+!>The robot starts successfullly if the indicator lights of actuators and robot host flash regularly.
 
    ![1698661268810](image/README/1698661268810.png)
 

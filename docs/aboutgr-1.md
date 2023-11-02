@@ -20,7 +20,7 @@ The Fourier GR-1's scalability lends itself to the validation of various AI mode
 ## Mechanical
 
 | Items         | Value                                |
-| ------------- | ------------------------------------ |
+| :------------ | :----------------------------------- |
 | Standing size | 1650 x 515 x 320 mm                  |
 | Arm span      | 1680 mm                              |
 | Net weight    | ≈ 55 kg                              |
@@ -29,14 +29,14 @@ The Fourier GR-1's scalability lends itself to the validation of various AI mode
 ## Electrical
 
 | Items                | Value  |
-| -------------------- | ------ |
+| :------------------- | :----- |
 | Power supply voltage | 46.2 V |
 | Max.  power          |        |
 
 ## Performance
 
 | Items                    | Value                                |
-| ------------------------ | ------------------------------------ |
+| :----------------------- | :----------------------------------- |
 | Walk speed               | 5 km/h                               |
 | Single hand payload      | ≈ 3 kg                               |
 | Basic computing capacity | 7-13700h 6P+8E 20 threads 1.6/5.0GHz |
@@ -44,7 +44,7 @@ The Fourier GR-1's scalability lends itself to the validation of various AI mode
 ## Joints
 
 | Items                 | Value                                           |
-| --------------------- | ----------------------------------------------- |
+| :-------------------- | :---------------------------------------------- |
 | Total joint actuators | 44                                              |
 | FSA actuators         | 32                                              |
 | Max. joint torque     | 230 N.m                                         |
@@ -56,14 +56,14 @@ The Fourier GR-1's scalability lends itself to the validation of various AI mode
 ## Sensor
 
 | Items        | Value     |
-| :----------- | --------- |
+| :----------- | :-------- |
 | Depth camera | Realsense |
 | IMU          | √         |
 
 ## Battery and adapter
 
 | Items                   | Value              |
-| :---------------------- | ------------------ |
+| :---------------------- | :----------------- |
 | Battery capacity        | 483 Wh             |
 | Battery type            | Lithium battery    |
 | Battery nominal voltage | 40 V               |

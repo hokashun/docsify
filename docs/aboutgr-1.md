@@ -88,9 +88,9 @@ The Fourier GR-1's scalability lends itself to the validation of various AI mode
 | Memory              | 16 G                                                                  |
 | SSD                 | 512 G                                                                 |
 
-## Operation Instruction
+# Operation Instruction
 
-#### Before power-on
+## Before power-on
 
 Do the following steps before powering on the robot:
 
@@ -118,7 +118,7 @@ Do the following steps before powering on the robot:
 
    ![1698658681237](image/README/1698658681237.png)
 
-### Powering on Robot
+## Powering on Robot
 
 1. Press actuator power-on button.
 2. Press robot host power-on button.
@@ -143,7 +143,7 @@ Do the following steps before powering on the robot:
 
    ![1698661268810](image/README/1698661268810.png)
 
-### Connecting Remote Controller to Robot
+## Connecting Remote Controller to Robot
 
 1. Switch on the remote controller and open the **System Settings** interface.
 2. Input the Wi-Fi account and password specified on the back of the robot.
@@ -154,7 +154,7 @@ Do the following steps before powering on the robot:
 
 !> A success prompt will be given when the connection succeeds.
 
-### Landing Robot
+## Landing Robot
 
 1. Ensure that the robot is fastened to the support stand.
 2. Click **Initial** to make the robot to initial state.
@@ -164,7 +164,7 @@ Do the following steps before powering on the robot:
 
 ![1698744210172](image/README/1698744210172.png)
 
-### Controlling Robot
+## Controlling Robot
 
 1. Power on the remote controller and connect to the robot's Wi-Fi.
 2. Operate the remote controller to control the motion of the robot.
@@ -174,7 +174,7 @@ Do the following steps before powering on the robot:
 
    ![1698744913325](image/README/1698744913325.png)
 
-### Pausing Robot Motion
+## Pausing Robot Motion
 
 Following two approaches are used to pause the motion of the robot:
 
@@ -183,7 +183,7 @@ Following two approaches are used to pause the motion of the robot:
 
  !>E-stop will cut off the power supply of the robot and risk of data loss.
 
-### Powering off Robot
+## Powering off Robot
 
 1. Fasten the robot to the supoort stand.
 2. Press the E-stop button.

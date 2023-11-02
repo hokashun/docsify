@@ -8,8 +8,8 @@
   - [Geometry and Frames](geometryandframes.md)
   - [Robot Services](robotervices.md)
   - [E-stop](E-stop.md)
-  - [Faults](faults.md)
   - [Autonomy](autonomy.md)
+  - [Faults](faults.md)
 
 - Getting started
   - [Quick start](quickstart.md)

@@ -6,7 +6,7 @@ is subject to the terms and conditions of the Boston Dynamics Software
 Development Kit License (20191101-BDSDK-SL).
 -->
 
-# Geometry and Frames
+# Geometry and Frames (((fake information, just a placeholder!)))
 
 GR-1 utilizes 3D transformations to describe itself, objects in its vicinity, and its perception of the environment. GR-1 employs various frames to represent these objects, including the "body" frame, which characterizes GR-1's body. A 3D transformation is employed to establish a connection between two frames, utilizing a translation vector and a rotation quaternion. These transformations serve to orient GR-1 in space and determine its position.
 

@@ -1,4 +1,3 @@
-
 - Concepts
 
   - [About GR-1](aboutgr-1.md)
@@ -10,10 +9,11 @@
   - [E-stop](E-stop.md)
   - [Autonomy](autonomy.md)
   - [Faults](faults.md)
+- Client SDK
 
-- Getting started
-  - [Quick start](quickstart.md)
-
+  - [Python](python\README.md)
+    -[Quckstart](python\quickstart.md)
+  - Javascript/Typescript
 - Getting started
 
   - [Quick start](quickstart.md)

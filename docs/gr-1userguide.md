@@ -164,7 +164,8 @@ Do the following steps before powering on the robot:
 1. Ensure that the robot is fastened to the support stand.
 2. Click **Initial** to make the robot to initial state.
    ![1698744141867](image/README/1698744141867.png)
-3. Lower the robot with the lift of the support stand.
+3. Lower the robot with the lift of the support stand.  
+
    Make sure the robot's feet stably contact with the ground.  
 4. Click **Stand** in the remote controller.
 
@@ -173,8 +174,10 @@ Do the following steps before powering on the robot:
 ### Controlling Robot
 
 1. Power on the remote controller and connect to the robot's Wi-Fi.
-2. Operate the remote controller to control the motion of the robot.
-   Use left handler to move the robot.   Use right handler to control the vision field.
+2. Operate the remote controller to control the motion of the robot.  
+  
+   Use left handler to move the robot.
+   Use right handler to control the vision field.
 
    ![1698744913325](image/README/1698744913325.png)
 
@@ -183,9 +186,9 @@ Do the following steps before powering on the robot:
 Following two approaches are used to pause the motion of the robot:
 
 * Press the **Stand** button on the remote controller.
-* Press down the E-stop in case of danger or any emergency situation.
+* Press down the E-stop button in case of danger or any emergency situation.
   
- !>This will cut off the power supply of the robot and risk of data loss.
+ !>E-stop will cut off the power supply of the robot and risk of data loss.
 
 ### Powering off Robot
 

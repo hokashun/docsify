@@ -12,11 +12,8 @@
 - Client SDK
 
   - [Python](python\README.md)
-     -[Quckstart](python\quickstart.md)
+    [Quckstart](python\quickstart.md)
   - Javascript/Typescript
-- Getting started
-
-  - [Quick start](quickstart.md)
 - RoCS Server
 
   - [RoCS Server](rocsserver.md)

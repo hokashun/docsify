@@ -17,8 +17,7 @@ The [Python reference guide](../../python/README.md) documents all of the Python
 The Python client library is supported on the following platforms:
 
 * Ubuntu 20 or above
-
-Python 3.11 or above are supported.
+* Python 3.11 or above
 
 ## Contents
 

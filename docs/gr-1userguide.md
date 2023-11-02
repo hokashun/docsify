@@ -102,7 +102,7 @@ Do the following steps before powering on the robot:
 
    Confirm that the batteries of robot and the support stand are fully chareged.  
 
-   Confirm that the robot components moves smoothly.
+   Confirm that the robot components moves smoothly.  
 
    ![1698657344119](image/README/1698657344119.png)
 2. Inspect environment.

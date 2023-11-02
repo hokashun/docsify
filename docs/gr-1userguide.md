@@ -155,7 +155,7 @@ Do the following steps before powering on the robot:
 
 ![1698736555432](image/README/1698736555432.png)
 
-1. Click **Connect** .
+31. Click **Connect** .
 
 !> A success prompt will be given if when the connection succeeds.
 
@@ -164,9 +164,7 @@ Do the following steps before powering on the robot:
 1. Ensure that the robot is fastened to the support stand.
 2. Click **Initial** to make the robot to initial state.
    ![1698744141867](image/README/1698744141867.png)
-3. Lower the robot with the lift of the support stand.  
-
-   Make sure the robot's feet stably contact with the ground.  
+3. Lower the robot with the lift of the support stand and ensure the robot's feet stably contact with the ground.  
 4. Click **Stand** in the remote controller.
 
 ![1698744210172](image/README/1698744210172.png)

@@ -144,7 +144,7 @@ Do the following steps before powering on the robot:
    $sh leg.sh
    ```
 
-？>The robot has started successfullly if the indicator lights of actuators and robot host flash regularly.
+!>The robot has started successfullly if the indicator lights of actuators and robot host flash regularly.
 
    ![1698661268810](image/README/1698661268810.png)
 
@@ -156,7 +156,7 @@ Do the following steps before powering on the robot:
 ![1698736555432](image/README/1698736555432.png)
 
 1. Click **Connect** .
-？> A success prompt will be given if when the connection succeeds.
+!> A success prompt will be given if when the connection succeeds.
 
 ### Landing Robot
 

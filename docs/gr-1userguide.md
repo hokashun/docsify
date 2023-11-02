@@ -106,6 +106,7 @@ Do the following steps before powering on the robot:
 
    ![1698657743472](image/README/1698657743472.png)
 4. Prepare arms for calibration.  
+
    Align shoulder grooves.  
    Keep the arms hanging straight down with the palms facing inward.  
    Ensure a 10 cm interval between palms and hips.  

@@ -94,29 +94,36 @@ The Fourier GR-1's scalability lends itself to the validation of various AI mode
 
 Do the following steps before powering on the robot:
 
-1. Inspect robot.
+### Inspecting robot
 
-   Ensure that the robot is fastened to the support stand.Ensure that the batteries of robot and the support stand are fully chareged.Ensure that the robot components moves smoothly.
+1. Ensure that the robot is fastened to the support stand.
+2. Ensure that the batteries of robot and the support stand are fully chareged.
+3. Ensure that the robot components moves smoothly.
 
-   ![1698657344119](image/README/1698657344119.png)
-2. Inspect environment.
+![1698657344119](image/README/1698657344119.png)
 
-   Ensure that there is a 4-meter clearance around the robot and that the ground is level and dry.
+### Inspecting environment
 
-   ![1698656074242](image/README/1698656074242.png)
-3. Connect robot to monitor.
+1. Ensure that there is a 4-meter clearance around the robot
+2. Ensure that the ground is level and dry.
 
-   Power on the router.Connect monitor to Type-C interface through the extension dock.
+![1698656074242](image/README/1698656074242.png)
 
-   ![1698657743472](image/README/1698657743472.png)
-4. Prepare arms for calibration.
+### Connecting robot to monitor
 
-   Align shoulder grooves.
-   Keep the arms hanging straight down with the palms facing inward.
-   Ensure a 10 cm interval between palms and hips.
-   Ensure that the robot stands upright.
+1. Power on the router.
+2. Connect monitor to Type-C interface through the extension dock.
 
-   ![1698658681237](image/README/1698658681237.png)
+![1698657743472](image/README/1698657743472.png)
+
+### Preparing arms for calibration
+
+1. Align shoulder grooves.
+2. Keep the arms hanging straight down with the palms facing inward.
+3. Ensure a 10 cm interval between palms and hips.
+4. Ensure that the robot stands upright.
+
+![1698658681237](image/README/1698658681237.png)
 
 ## Powering on Robot
 

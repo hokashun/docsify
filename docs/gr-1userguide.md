@@ -96,17 +96,22 @@ The Fourier GR-1 offers scalability for validating various AI models and algorit
 
 Do the following steps before powering on the robot:
 
-1. Inspect robot.Confirm that the robot is fastened to the support stand.
+1. Inspect robot.Confirm that the robot is fastened to the support stand.  
 
-   Confirm that the batteries of robot and the support stand are fully chareged.  Confirm that the robot components moves smoothly.
+   Confirm that the batteries of robot and the support stand are fully chareged.
+
+   Confirm that the robot components moves smoothly.
 
    ![1698657344119](image/README/1698657344119.png)
 2. Inspect environment.
+
    Confirm that a 4 m clearance in the vicinity of the robot and the ground is level and dry.
 
    ![1698656074242](image/README/1698656074242.png)
-3. Connect robot to monitor.
+3. Connect robot to monitor.  
+
    Power on the router.
+
    Connect monitor with Type-C interface through the extension dock.
 
    ![1698657743472](image/README/1698657743472.png)
@@ -136,6 +141,7 @@ Do the following steps before powering on the robot:
    ```
    $sh leg.sh
    ```
+
 5. The robot is started successfullly if the indicator lights of actuators and robot host flash regularly.
 
    ![1698661268810](image/README/1698661268810.png)

@@ -12,7 +12,7 @@
 - Client SDK
 
   - [Python](python\README.md)
-    -[Quckstart](python\quickstart.md)
+     -[Quckstart](python\quickstart.md)
   - Javascript/Typescript
 - Getting started
 

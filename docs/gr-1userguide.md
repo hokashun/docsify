@@ -157,7 +157,7 @@ Do the following steps before powering on the robot:
 
 31. Click **Connect** .
 
-!> A success prompt will be given if when the connection succeeds.
+!> A success prompt will be given when the connection succeeds.
 
 ### Landing Robot
 

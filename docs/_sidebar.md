@@ -13,6 +13,7 @@
 
   - [Python](python\README.md)
     - [Quckstart](python\quickstart.md)
+    - [Understanding GR-1 Programming](python\understanding_gr-1_programming.md)
   - Javascript/Typescript
 - RoCS Server
 

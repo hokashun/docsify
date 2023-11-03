@@ -38,4 +38,5 @@
   - [Release V0.2](v0.2.md)
   - [Release V1.1](v1.1.md)
 
-- [Feedback](feedback.md)
+- Release Notes
+  - [Feedback](feedback.md)
